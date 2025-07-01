@@ -134,3 +134,17 @@ experience:
        directly contributing to the enhancement of fiscal enforcement activities and resulting in a significant increase in tax revenue.
     technologies_used: |
       MySQL, Python, Advanced Excel
+publications:
+  - title: Socio-Economic Gaps in Workers’ Participation in Private Pension
+      Programmes in Ten European Countries
+    link: doi:10.1017/S0047279422000897
+    authors: Gonzales, S., and Fernández, J. (2022)
+    conference: Aging and social change (2022), Early-career workshop. NORFACE
+      Governance (2022), NORFACE Governance Early-Career Club (2022)
+    journal: Journal of Social Policy, 51(2), 2022, pp. 1-27.
+  - title: Can pension fund design increase pension savings? Evidence from a
+      conjoint experiment in six European countries
+    link: doi:10.1093/workar/waae021
+    authors: Fernández, J. J., Gonzales, S., James, H., and Wiß, T.
+    conference: Social Structure and Population” Research Group (2023)
+    journal: Work, Aging and Retirement, 2024, pp. 1-30.
