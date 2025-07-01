@@ -11,7 +11,7 @@ languages:
   - idiom: Spanish
   - idiom: English
 education:
-  - degree: Data Science and Machine Learning
+  - degree: Data Science and ML
     time: 2025 (+400 hours)
     university: Ironhack (Spain)
   - degree: PhD in Social Science
