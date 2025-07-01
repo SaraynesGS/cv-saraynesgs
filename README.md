@@ -20,6 +20,7 @@ Free theme for the creation of your CV. View demo [here](https://jekyll-cv.stavr
 - You're done!
 
 Go to https://username.github.io/jekyll-cv/
+My link: https://saraynesgs.github.io/cv-saraynesgs/
 
 ## Contributing 
 - Feel free to open issues and create pull requests for new features or skins
