@@ -1,108 +1,116 @@
-name: John Doe
+---
+name: Sara Ynes Gonzales Santisteban
 support_dark_mode: true
 fork: true
-
-# Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
-
+  email: saraynes.gs@gmail.com
+  github: https://github.com/SaraynesGS
+  linkedin: https://www.linkedin.com/in/sara-ynes-gonzales-santisteban/
+  phone: (+34) 692 32 71 03
+  gitlab: ""
+  twitter: ""
 languages:
+  - idiom: Spanish
   - idiom: English
-  - idiom: Russian
-  - idiom: French
-
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
-
-skills:
-  - category: Backend
-    skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
-
-# Profile
-profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
-
-# Experience
-experience:
-  - role: Software Engineer
+  - degree: Intense Bootcamp Data Science and Machine Learning
+    time: 2025 (+400 hours)
+    university: Ironhack (Spain)
+  - degree: PhD in Social Science
     time: 2020-Present
-    company: Google
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
-  
+    university: Universidad Carlos III de Madrid (Spain)
+  - degree: MSc in Social Science
+    time: 2018-2020
+    university: Universidad Carlos III de Madrid (Spain)
+  - degree: BSc in Economics and Finance
+    time: 2005-2009
+    university: Universidad de Piura (Perú)
+skills:
+  - category: Hard skills
+    skill:
+      - Data analysis and visualization
+      - Statistical analysis and modeling
+      - Predictive modeling
+      - Natural language processing (NLP)
+  - category: Software skills
+    skill:
+      - R
+      - Stata
+      - Python
+      - MySQL
+      - Tablau
+      - SAP Finanance
+  - category: Soft skills
+    skill:
+      - Analytical problem-solving
+      - Attention to detail
+      - Critical thinking
+      - Communication
+profile: >
+  Dynamic and detail-oriented Data Scientist with extensive experience in
+  academic research within the realms of 
+
+  social science and public policy. 
+
+  Expert in transforming complex datasets into innovative and actionable insights that fuel strategic decision-making. 
+
+  Proficient in advanced data visualization and comprehensive statistical analysis. Leveraging a robust research background, 
+
+  I excel at hypothesis testing, interpreting complex statistical metrics, and delivering well-substantiated conclusions. 
+
+  Eager to apply analytical expertise to contribute to data-driven decision-making in a fast-paced, dynamic environment.
+experience:
   - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+    time: 2020-2023
+    company: Universidad Carlos III de Madrid
+    details: >
+      As a Pre-Doctoral Researcher for the Democratic Government of Funded
+      Pension Schemes Project, 
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+      funded by the New Opportunities for Research Funding Agency Cooperation in Europe, 
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+      I conducted comprehensive data collection, analysis, 
 
-projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      and visualization concerning the governance of capital-funded pension schemes in six European countries. 
 
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      My role involved reviewing and comparing private pension regulations, leading to insightful analyses. 
 
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Additionally, I conducted in-depth interviews with key stakeholders in Spain, 
+
+      which enriched the qualitative data aspect of the project. 
+
+      My contributions were instrumental in co-authoring two published academic papers and a technical note, 
+
+      thus significantly enhancing the project's scholarly output.
+    technologies_used: |
+      R, STATA
+  - role: Public policy researcher
+    time: 2016
+    company: Peruvian Ministry of Economy and Finance
+    details: >
+      I conducted in-depth analyses of public policies affecting the Peruvian
+      economy, 
+
+      with a focus on taxation and social contributions. 
+
+      My work provided crucial data-driven insights for policy evaluation and improvement. 
+
+      I was also responsible for developing comprehensive periodic reports on the country's economic and educational landscape, 
+
+      effectively communicating complex findings to stakeholders to aid in informed decision-making.
+    technologies_used: |
+      R, STATA
+  - role: Public policy researcher
+    time: 2016
+    company: Peruvian Ministry of Production
+    details: >
+      I led the design and execution of a major national survey to assess the
+      landscape of Peruvian enterprises, 
+
+      playing a crucial role in the development and implementation of the National Innovation Survey for enterprises. 
+
+      My work involved conducting in-depth analyses of innovation and productivity across these enterprises, 
+
+      generating actionable insights to guide strategic public policy decisions. 
+
+      Additionally, I was responsible for compiling comprehensive periodic reports on
