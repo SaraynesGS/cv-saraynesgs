@@ -24,6 +24,12 @@ education:
     time: 2005-2009
     university: Universidad de Piura (Perú)
 skills:
+  - category: Soft skills
+    skill:
+      - Analytical problem-solving
+      - Attention to detail
+      - Critical thinking
+      - Communication
   - category: Hard skills
     skill:
       - Data analysis & visualization
@@ -47,12 +53,7 @@ skills:
       - TensorFlow
       - Docker
       - AWS
-  - category: Soft skills
-    skill:
-      - Analytical problem-solving
-      - Attention to detail
-      - Critical thinking
-      - Communication
+
 profile: >
   Dynamic and detail-oriented Data Scientist with extensive experience in
   academic research within social science and public policy. 
