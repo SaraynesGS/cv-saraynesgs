@@ -26,10 +26,10 @@ education:
 skills:
   - category: Hard skills
     skill:
-      - Data analysis and visualization
-      - Statistical analysis and modeling
+      - Data analysis & visualization
+      - Statistical analysis & modeling
       - Predictive modeling
-      - Natural Language Processing (NLP)
+      - NLP
   - category: Software skills
     skill:
       - Python
