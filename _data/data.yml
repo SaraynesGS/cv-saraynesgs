@@ -3,10 +3,10 @@ name: Sara Ynes Gonzales Santisteban
 support_dark_mode: true
 fork: true
 contact:
-  email: saraynes.gs@gmail.com
   github: SaraynesGS
-  linkedin: sara-ynes-gonzales-santisteban
   phone: (+34) 692 32 71 03
+  email: saraynes.gs@gmail.com
+  linkedin: sara-ynes-gonzales-santisteban
 languages:
   - idiom: Spanish
   - idiom: English
@@ -27,7 +27,7 @@ skills:
   - category: Hard skills
     skill:
       - Data analysis & visualization
-      - Statistical analysis & modeling
+      - Statistical analysis
       - Predictive modeling
       - NLP
   - category: Software skills
